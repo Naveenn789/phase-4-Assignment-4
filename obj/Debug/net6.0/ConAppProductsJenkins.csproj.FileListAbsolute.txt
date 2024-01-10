@@ -1,0 +1,14 @@
+C:\Mphasis\Phase-4\Day-4\Assignment\ConAppProductsJenkins\ConAppProductsJenkins\bin\Debug\net6.0\ConAppProductsJenkins.exe
+C:\Mphasis\Phase-4\Day-4\Assignment\ConAppProductsJenkins\ConAppProductsJenkins\bin\Debug\net6.0\ConAppProductsJenkins.deps.json
+C:\Mphasis\Phase-4\Day-4\Assignment\ConAppProductsJenkins\ConAppProductsJenkins\bin\Debug\net6.0\ConAppProductsJenkins.runtimeconfig.json
+C:\Mphasis\Phase-4\Day-4\Assignment\ConAppProductsJenkins\ConAppProductsJenkins\bin\Debug\net6.0\ConAppProductsJenkins.dll
+C:\Mphasis\Phase-4\Day-4\Assignment\ConAppProductsJenkins\ConAppProductsJenkins\bin\Debug\net6.0\ConAppProductsJenkins.pdb
+C:\Mphasis\Phase-4\Day-4\Assignment\ConAppProductsJenkins\ConAppProductsJenkins\obj\Debug\net6.0\ConAppProductsJenkins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mphasis\Phase-4\Day-4\Assignment\ConAppProductsJenkins\ConAppProductsJenkins\obj\Debug\net6.0\ConAppProductsJenkins.AssemblyInfoInputs.cache
+C:\Mphasis\Phase-4\Day-4\Assignment\ConAppProductsJenkins\ConAppProductsJenkins\obj\Debug\net6.0\ConAppProductsJenkins.AssemblyInfo.cs
+C:\Mphasis\Phase-4\Day-4\Assignment\ConAppProductsJenkins\ConAppProductsJenkins\obj\Debug\net6.0\ConAppProductsJenkins.csproj.CoreCompileInputs.cache
+C:\Mphasis\Phase-4\Day-4\Assignment\ConAppProductsJenkins\ConAppProductsJenkins\obj\Debug\net6.0\ConAppProductsJenkins.dll
+C:\Mphasis\Phase-4\Day-4\Assignment\ConAppProductsJenkins\ConAppProductsJenkins\obj\Debug\net6.0\refint\ConAppProductsJenkins.dll
+C:\Mphasis\Phase-4\Day-4\Assignment\ConAppProductsJenkins\ConAppProductsJenkins\obj\Debug\net6.0\ConAppProductsJenkins.pdb
+C:\Mphasis\Phase-4\Day-4\Assignment\ConAppProductsJenkins\ConAppProductsJenkins\obj\Debug\net6.0\ConAppProductsJenkins.genruntimeconfig.cache
+C:\Mphasis\Phase-4\Day-4\Assignment\ConAppProductsJenkins\ConAppProductsJenkins\obj\Debug\net6.0\ref\ConAppProductsJenkins.dll
